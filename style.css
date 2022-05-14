@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.storage{
+    color: darkgray;
+}
+.progress .bg-og{
+    background-color: orange;
+}
+.bg-sb{
+    background-color: slateblue;
+}
+.text-orange{
+    color: orange;
+}
+.text-purple{
+    color: slateblue;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+}
+.footer>div{
+    padding-right: 10px;
+}
+.main-content{
+    width: 50%;
+    padding: 20px;
+}
