@@ -9,3 +9,10 @@ body>.container{
     height: 20vh;
     object-fit: contain;
 }
+.page-link{
+    color: black;
+}
+.page-link:hover{
+    color: white;
+    background-color: gray;
+}
