@@ -1,6 +1,5 @@
-.row-3{
-    height: 80px;
-}
-.row-2{
-    height: 40px;
+body>.container{
+    margin: 20px;
+    padding: 20px;
+    border-style: none;
 }
