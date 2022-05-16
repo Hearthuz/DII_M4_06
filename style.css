@@ -32,10 +32,12 @@ body>.container{
 }
 .btn-outline-brown:hover{
     color: #e9d4b7;
+    background-color: #964b00;
 }
 .btn-yellowhite{
     background-color: #ffba01;
 }
 .btn-darkbrown{
+    color: white;
     background-color: #964B00;
 }
