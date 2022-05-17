@@ -1,9 +1,4 @@
-body{
-    width: 1440px;
-}
 body>.container{
-    margin: 20px;
-    padding: 20px;
     border-style: none;
 }
 .card>img {
@@ -40,4 +35,11 @@ body>.container{
 .btn-darkbrown{
     color: white;
     background-color: #964B00;
+}
+.white-yellow{
+    background-color: #fde992;
+    border: none;
+}
+.text-whiteyellow{
+    color: #e8b828;
 }
